@@ -1,0 +1,92 @@
+# 图片出处
+
+本目录的照片都来自维基共享资源（Wikimedia Commons），授权为公有领域或 CC BY / CC BY-SA。示意图（页面内的 SVG）是本站自己画的。
+
+- `00-hummingbird.jpg` — File:Hovering Hummingbird (14900025010).jpg — USFWS Mountain-Prairie — Public domain — https://commons.wikimedia.org/wiki/File%3AHovering_Hummingbird_%2814900025010%29.jpg
+- `00-jacquard.jpg` — File:A Jacquard loom showing information punchcards, National Museum of Scotland.jpg — Stephencdickson — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AA_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg
+- `00-turk.jpg` — File:Racknitz - The Turk 1.jpg — Joseph Racknitz — Public domain — https://commons.wikimedia.org/wiki/File%3ARacknitz_-_The_Turk_1.jpg
+- `00-betavhs.jpg` — File:Betavhs2.jpg — Senor k — Public domain — https://commons.wikimedia.org/wiki/File%3ABetavhs2.jpg
+- `00-press.jpg` — File:PrintMus 038.jpg — [International Printing Museum] — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3APrintMus_038.jpg
+- `00-feynman.jpg` — File:Richard Feynman 1959.png — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ARichard_Feynman_1959.png
+- `04-briggs.jpg` — File:Briggs house.jpg — unknown.. Jonathanriley at English Wikipedia. Later version(s) were uploaded by  — Public domain — https://commons.wikimedia.org/wiki/File%3ABriggs_house.jpg
+- `04-chesbrough.jpg` — File:Ellis Sylvester Chesbrough (1813–1886).png — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3AEllis_Sylvester_Chesbrough_%281813%E2%80%931886%29.png
+- `04-bubbly.jpg` — File:Bubblycreek.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ABubblycreek.jpg
+- `04-snowmap.jpg` — File:Snow-cholera-map.jpg — after John Snow — Public domain — https://commons.wikimedia.org/wiki/File%3ASnow-cholera-map.jpg
+- `07-ada.jpg` — File:Ada Lovelace portrait.jpg — Alfred Edward Chalon — Public domain — https://commons.wikimedia.org/wiki/File%3AAda_Lovelace_portrait.jpg
+- `07-byron.jpg` — File:Byron 1813 by Phillips.jpg — Thomas Phillips — Public domain — https://commons.wikimedia.org/wiki/File%3AByron_1813_by_Phillips.jpg
+- `07-babbage.jpg` — File:Charles Babbage - 1860.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ACharles_Babbage_-_1860.jpg
+- `07-engine.jpg` — File:Analytical engine trial model, Charles Babbage, 1834-1871 - Science Museum, London - DSC05565.jpg — Daderot — CC0 — https://commons.wikimedia.org/wiki/File%3AAnalytical_engine_trial_model%2C_Charles_Babbage%2C_1834-1871_-_Science_Museum%2C_London_-_DSC05565.jpg
+- `07-difference.jpg` — File:Difference Engine No. 2.jpg — gocarts — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3ADifference_Engine_No._2.jpg
+- `04-semmelweis.jpg` — File:Borsos & Doctor Semmelweis Ignác.jpg — József Borsos / Albert Doctor — Public domain — https://commons.wikimedia.org/wiki/File%3ABorsos_%26_Doctor_Semmelweis_Ign%C3%A1c.jpg
+- `04-koch.jpg` — File:Robert Koch in seine Laboratorium.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ARobert_Koch_in_seine_Laboratorium.jpg
+- `07-phonautograph.jpg` — File:Phonautograph 1859.jpg — Édouard-Léon Scott de Martinville (1817–1879) — Public domain — https://commons.wikimedia.org/wiki/File%3APhonautograph_1859.jpg
+- `04-leal.jpg` — File:Dr. John L. Leal.JPG — Drinkingwaterdoc — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ADr._John_L._Leal.JPG
+- `07-garage.jpg` — File:HP garage front.JPG — BrokenSphere — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AHP_garage_front.JPG
+- `07-dustbowl.jpg` — File:Dust storm approaching Stratford, Texas.jpg — George Everett Marsh Jr. — Public domain — https://commons.wikimedia.org/wiki/File%3ADust_storm_approaching_Stratford%2C_Texas.jpg
+- `07-cards.jpg` — File:PunchedCardsAnalyticalEngine.jpg — Karoly Lorentey — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3APunchedCardsAnalyticalEngine.jpg
+- `06-earth-night.jpg` — File:City Lights 2012 - Flat map.jpg — NASA Earth Observatory — Public domain — https://commons.wikimedia.org/wiki/File%3ACity_Lights_2012_-_Flat_map.jpg
+- `04-kellerman.jpg` — File:Annette Kellerman1.jpg — Bain News Service, publisher — Public domain — https://commons.wikimedia.org/wiki/File%3AAnnette_Kellerman1.jpg
+- `04-listerine.jpg` — File:Listerine - Aug 1927 Vogue.jpg — Lambert Pharmacal Company — Public domain — https://commons.wikimedia.org/wiki/File%3AListerine_-_Aug_1927_Vogue.jpg
+- `04-dispensary.jpg` — File:Death's Dispensary.jpg — George John Pinwell — Public domain — https://commons.wikimedia.org/wiki/File%3ADeath%27s_Dispensary.jpg
+- `04-metropolitan.jpg` — File:Constructing the Metropolitan Railway.jpg — Percy William Justyne — Public domain — https://commons.wikimedia.org/wiki/File%3AConstructing_the_Metropolitan_Railway.jpg
+- `04-odorono.jpg` — File:WithinTheCurveOfAWomansArm.jpg — Smithsonian Institute — Public domain — https://commons.wikimedia.org/wiki/File%3AWithinTheCurveOfAWomansArm.jpg
+- `03-phonautograph.jpg` — File:Phonautograph 1859.jpg — Édouard-Léon Scott de Martinville (1817–1879) — Public domain — https://commons.wikimedia.org/wiki/File%3APhonautograph_1859.jpg
+- `03-session.jpg` — File:Phonautographic recording session - Scott 1857.jpg — Édouard-Léon Scott de Martinville (1817–1879) — Public domain — https://commons.wikimedia.org/wiki/File%3APhonautographic_recording_session_-_Scott_1857.jpg
+- `04-cleanroom.jpg` — File:Clean room.jpg — Uploaded by Duk 08:45, 16 Feb 2005 (UTC) — Public domain — https://commons.wikimedia.org/wiki/File%3AClean_room.jpg
+- `03-cave.jpg` — File:Arcy-sur-Cure grottes 3.jpg — Croquant — Public domain — https://commons.wikimedia.org/wiki/File%3AArcy-sur-Cure_grottes_3.jpg
+- `02-tudor.jpg` — File:Francis Alexander - Frederic Tudor - 67.1160 - Museum of Fine Arts.jpg — Francis Alexander — Public domain — https://commons.wikimedia.org/wiki/File%3AFrancis_Alexander_-_Frederic_Tudor_-_67.1160_-_Museum_of_Fine_Arts.jpg
+- `05-lamp.jpg` — File:Pisa cathedral - Galileo lamp.jpg — Tangopaso — Public domain — https://commons.wikimedia.org/wiki/File%3APisa_cathedral_-_Galileo_lamp.jpg
+- `05-galileo-clock.jpg` — File:Galileo pendulum clock 2.png — Vincenzo Viviani — Public domain — https://commons.wikimedia.org/wiki/File%3AGalileo_pendulum_clock_2.png
+- `05-h4.jpg` — File:Harrison H4 chronometer.jpg — Colonel Warden at en.wikipedia — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AHarrison_H4_chronometer.jpg
+- `02-walden.jpg` — File:Walden Pond in winter, Concord MA.jpg — John Phelan — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3AWalden_Pond_in_winter%2C_Concord_MA.jpg
+- `02-gorrie-machine.jpg` — File:Gorriemuseumapalachicola ice mchn1.jpg — Ebyabe — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AGorriemuseumapalachicola_ice_mchn1.jpg
+- `07-leonardo.jpg` — File:Leonardo helicopter.JPG — Leonardo da Vinci — Public domain — https://commons.wikimedia.org/wiki/File%3ALeonardo_helicopter.JPG
+- `02-reefer.jpg` — File:Swift Refrigerator Line car, 1899.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ASwift_Refrigerator_Line_car%2C_1899.jpg
+- `05-waltham.jpg` — File:Vintage American Waltham Pocket Watch, Hunter Case, 7 Jewels, Size 18 (10424989296).jpg — Joe Haupt from USA — CC BY-SA 2.0 — https://commons.wikimedia.org/wiki/File%3AVintage_American_Waltham_Pocket_Watch%2C_Hunter_Case%2C_7_Jewels%2C_Size_18_%2810424989296%29.jpg
+- `01-murano.jpg` — File:Glass blowing in the Murano island (14023312236).jpg — Miguel Mendez — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AGlass_blowing_in_the_Murano_island_%2814023312236%29.jpg
+- `03-audion.jpg` — File:Lee De Forest with Audion tubes.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ALee_De_Forest_with_Audion_tubes.jpg
+- `01-desert-glass.jpg` — File:Libyan Desert Glass.jpg — H. Raab (User:Vesta) — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ALibyan_Desert_Glass.jpg
+- `06-spermaceti.jpg` — File:Spermaceti candle and oil.jpg — Genevieve Anderson — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ASpermaceti_candle_and_oil.jpg
+- `06-edison-bulb.jpg` — File:Edison Carbon Bulb.jpg — Terren — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AEdison_Carbon_Bulb.jpg
+- `01-spectacles.jpg` — File:Tommaso da modena, ritratti di domenicani (Ugo di Provenza) 1352 150cm, treviso, ex convento di san niccolò, sala del capitolo (cropped).jpg — Tommaso da Modena — Public domain — https://commons.wikimedia.org/wiki/File%3ATommaso_da_modena%2C_ritratti_di_domenicani_%28Ugo_di_Provenza%29_1352_150cm%2C_treviso%2C_ex_convento_di_san_niccol%C3%B2%2C_sala_del_capitolo_%28cropped%29.jpg
+- `05-timeclock.jpg` — File:IBM time recorder 090325.jpg — JuergenG — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AIBM_time_recorder_090325.jpg
+- `07-noteg.jpg` — File:Diagram for the computation of Bernoulli numbers.jpg — Ada Lovelace — Public domain — https://commons.wikimedia.org/wiki/File%3ADiagram_for_the_computation_of_Bernoulli_numbers.jpg
+- `06-pearl-street.jpg` — File:Laying the electrical Tubes electric lines under street Edison Pearl Street Utility June 21 1882 Harpers Weekly - detail.png — W. P. Snyder — Public domain — https://commons.wikimedia.org/wiki/File%3ALaying_the_electrical_Tubes_electric_lines_under_street_Edison_Pearl_Street_Utility_June_21_1882_Harpers_Weekly_-_detail.png
+- `01-flea.jpg` — File:HookeFlea01.jpg — Robert Hooke — Public domain — https://commons.wikimedia.org/wiki/File%3AHookeFlea01.jpg
+- `01-galileo-telescope.jpg` — File:Galilei telescopes, Museo Galileo, Florence, Inv. 242, 2428, 224088.jpg — Zde — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AGalilei_telescopes%2C_Museo_Galileo%2C_Florence%2C_Inv._242%2C_2428%2C_224088.jpg
+- `01-meninas.jpg` — File:Las Meninas 01.jpg — Diego Velázquez — Public domain — https://commons.wikimedia.org/wiki/File%3ALas_Meninas_01.jpg
+- `01-durer.jpg` — File:Dürer Alte Pinakothek.jpg — Albrecht Dürer — Public domain — https://commons.wikimedia.org/wiki/File%3AD%C3%BCrer_Alte_Pinakothek.jpg
+- `05-zones.jpg` — File:Time zone map of the United States 1913 (colorized).png — OwenBlacker — Public domain — https://commons.wikimedia.org/wiki/File%3ATime_zone_map_of_the_United_States_1913_%28colorized%29.png
+- `05-greenwich.jpg` — File:Greenwich clock 2.jpg — Alvesgaspar — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AGreenwich_clock_2.jpg
+- `05-sears.jpg` — File:1922 Sears Modern Homes Catalog.jpg — Sears, Roebuck and Company — Public domain — https://commons.wikimedia.org/wiki/File%3A1922_Sears_Modern_Homes_Catalog.jpg
+- `02-stockyards.jpg` — File:Livestock chicago 1947.jpg — John Vachon — Public domain — https://commons.wikimedia.org/wiki/File%3ALivestock_chicago_1947.jpg
+- `06-whaling.jpg` — File:Mitchell and Croasdale, successors to G.W. Ridgway and Co., dealers in sperm, whale, lard, and tanners oil, candles, rice, &c. No. 30 n(or)th wharves, above Arch St. Philadelphia, (1856) (4680054040).jpg — Library Company of Philadelphia — No restrictions — https://commons.wikimedia.org/wiki/File%3AMitchell_and_Croasdale%2C_successors_to_G.W._Ridgway_and_Co.%2C_dealers_in_sperm%2C_whale%2C_lard%2C_and_tanners_oil%2C_candles%2C_rice%2C_%26c._No._30_n%28or%29th_wharves%2C_above_Arch_St._Philadelphia%2C_%281856%29_%284680054040%29.jpg
+- `06-riis-bayard.jpg` — File:Jacob Riis, Lodgers in a Crowded Bayard Street Tenement.jpg — Jacob Riis — Public domain — https://commons.wikimedia.org/wiki/File%3AJacob_Riis%2C_Lodgers_in_a_Crowded_Bayard_Street_Tenement.jpg
+- `01-fiber.jpg` — File:Fibreoptic.jpg — BigRiz — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AFibreoptic.jpg
+- `02-ice-harvest.jpg` — File:Ice Harvesting, Massachusetts, early 1850s.jpg — AnonymousUnknown author — Public domain — https://commons.wikimedia.org/wiki/File%3AIce_Harvesting%2C_Massachusetts%2C_early_1850s.jpg
+- `02-birdseye.jpg` — File:Clarence Birdseye 1930.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3AClarence_Birdseye_1930.jpg
+- `05-essen.jpg` — File:Atomic Clock-Louis Essen.jpg — National Physical Laboratory — Public domain — https://commons.wikimedia.org/wiki/File%3AAtomic_Clock-Louis_Essen.jpg
+- `02-window-ac.jpg` — File:Frigidaire Window Air Conditioner - exterior, Fort Wayne Indiana 2008.jpg — kristinafh — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AFrigidaire_Window_Air_Conditioner_-_exterior%2C_Fort_Wayne_Indiana_2008.jpg
+- `06-fremont.jpg` — File:Fremont Street 1986.jpg — Larry D. Moore — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3AFremont_Street_1986.jpg
+- `02-ice-plow.jpg` — File:NSRW Ice Harvesting - ice plow.jpg — Brown Bros. — Public domain — https://commons.wikimedia.org/wiki/File%3ANSRW_Ice_Harvesting_-_ice_plow.jpg
+- `05-pine.jpg` — File:2014-09-15 13 51 37 Bristlecone Pine along the Bristlecone Trail in Great Basin National Park, Nevada.JPG — Famartin — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3A2014-09-15_13_51_37_Bristlecone_Pine_along_the_Bristlecone_Trail_in_Great_Basin_National_Park%2C_Nevada.JPG
+- `05-longnow.jpg` — File:Clock of the Long Now.JPG — Pkirlin at en.wikipedia — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AClock_of_the_Long_Now.JPG
+- `05-gps.jpg` — File:Navstar-2F.jpg — USAF — Public domain — https://commons.wikimedia.org/wiki/File%3ANavstar-2F.jpg
+- `06-nif.jpg` — File:Worker inside the target chamber of the National Ignition Facility.jpg — Lawrence Livermore National Security — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3AWorker_inside_the_target_chamber_of_the_National_Ignition_Facility.jpg
+- `06-neon-tube.jpg` — File:J. Norman Collie.jpg — UCL Chemistry Collections — CC BY 3.0 — https://commons.wikimedia.org/wiki/File%3AJ._Norman_Collie.jpg
+- `06-riis.jpg` — File:Jacob August Riis, half-length portrait, facing front, arms folded LCCN95506126.jpg — Miscellaneous Items in High Demand, PPOC, Library of Congress — Public domain — https://commons.wikimedia.org/wiki/File%3AJacob_August_Riis%2C_half-length_portrait%2C_facing_front%2C_arms_folded_LCCN95506126.jpg
+- `06-scanner.jpg` — File:An old price scanner at a supermarket.jpg — Luke — Public domain — https://commons.wikimedia.org/wiki/File%3AAn_old_price_scanner_at_a_supermarket.jpg
+- `06-menlo.jpg` — File:Laboratory at Menlo Park. (14dba1e944d9421699fdaba861743d2d).jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ALaboratory_at_Menlo_Park._%2814dba1e944d9421699fdaba861743d2d%29.jpg
+- `06-kings-chamber.jpg` — File:Khufu Pyramid - King's Chamber.jpg — Andrew Currie — CC BY 2.0 — https://commons.wikimedia.org/wiki/File%3AKhufu_Pyramid_-_King%27s_Chamber.jpg
+- `03-king.jpg` — File:Martin Luther King Jr. addresses a crowd from the steps of the Lincoln Memorial, USMC-09611.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3AMartin_Luther_King_Jr._addresses_a_crowd_from_the_steps_of_the_Lincoln_Memorial%2C_USMC-09611.jpg
+- `02-carrier.jpg` — File:Willis Carrier 1915 (cropped).jpg — 100th Anniversary Press Kit - Carrier Corp — Public domain — https://commons.wikimedia.org/wiki/File%3AWillis_Carrier_1915_%28cropped%29.jpg
+- `02-bruegel.jpg` — File:Pieter Bruegel the Elder - The Hunters in the Snow (January) - WGA3434.jpg — Pieter Brueghel the Elder — Public domain — https://commons.wikimedia.org/wiki/File%3APieter_Bruegel_the_Elder_-_The_Hunters_in_the_Snow_%28January%29_-_WGA3434.jpg
+- `03-ellington.jpg` — File:(Portrait of Duke Ellington, Aquarium, New York, N.Y., between 1946 and 1948) (LOC) (4932369098).jpg — The Library of Congress — Public domain — https://commons.wikimedia.org/wiki/File%3A%28Portrait_of_Duke_Ellington%2C_Aquarium%2C_New_York%2C_N.Y.%2C_between_1946_and_1948%29_%28LOC%29_%284932369098%29.jpg
+- `03-ultrasound.jpg` — File:Obstetric ultrasound scan monitor showing 20-week human fetus profile in Navi Mumbai 2015.jpg — Goleisureintl — CC BY 4.0 — https://commons.wikimedia.org/wiki/File%3AObstetric_ultrasound_scan_monitor_showing_20-week_human_fetus_profile_in_Navi_Mumbai_2015.jpg
+- `03-armstrong.jpg` — File:Louis Armstrong restored.jpg — World-Telegram staff photographer — Public domain — https://commons.wikimedia.org/wiki/File%3ALouis_Armstrong_restored.jpg
+- `01-keck.jpg` — File:Keck laser at night.png — Paul Hirst (Phirst) — CC BY-SA 2.5 — https://commons.wikimedia.org/wiki/File%3AKeck_laser_at_night.png
+- `02-rivoli.jpg` — File:Three Ages (1923) - 1.jpg — Buster Keaton Productions / Metro Pictures — Public domain — https://commons.wikimedia.org/wiki/File%3AThree_Ages_%281923%29_-_1.jpg
+- `01-pectoral.jpg` — File:CairoMusPectoralTaa.jpg — Roland Unger — CC BY-SA 3.0 — https://commons.wikimedia.org/wiki/File%3ACairoMusPectoralTaa.jpg
+- `06-smyth.jpg` — File:Piazzismyth.jpg — John Faed — Public domain — https://commons.wikimedia.org/wiki/File%3APiazzismyth.jpg
+- `03-sigsaly.jpg` — File:SIGSALY-1943.jpg — 作者不详 — Public domain — https://commons.wikimedia.org/wiki/File%3ASIGSALY-1943.jpg
+- `03-fessenden.jpg` — File:Reginald Fessenden and Fessenden oscillator, c. 1914.jpg — Daderot — Public domain — https://commons.wikimedia.org/wiki/File%3AReginald_Fessenden_and_Fessenden_oscillator%2C_c._1914.jpg
