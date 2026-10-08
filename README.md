@@ -9,7 +9,7 @@
 - `index.html`：首页（全书一张图、目录、阅读进度、我的词本）
 - `chapters/NN.html`：`00` 引言，`01`–`06` 正文六章（Glass / Cold / Sound / Clean / Time / Light），`07` 结语
 - `assets/`：共享样式 `style.css`、脚本 `hw.js`、目录数据 `chapters.js`、图片 `img/`（出处见 `img/CREDITS.md`）
-- `tools/`：`extract.py` 提取原书文本、`fetch_img.py` 从维基共享资源取图、`lint.py` 结构检查、
+- `tools/`：`extract.py` 提取原书文本、`fetch_img.py` 从维基共享资源取图（转调 `~/tutorials-deploy/scripts/fetch_img.py`）、`lint.py` 结构检查、
   `overlap.py` 与原书的重合检查、`check.mjs` 浏览器检查
 - `AUTHORING.md`：章节页编写规范
 - `source/`：原书材料，只在本机，不入库、不部署
