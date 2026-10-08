@@ -2,7 +2,7 @@
 
 本目录的照片都来自维基共享资源（Wikimedia Commons），授权为公有领域或 CC BY / CC BY-SA。示意图（页面内的 SVG）是本站自己画的。
 
-- `00-hummingbird.jpg` — File:Hovering Hummingbird (14900025010).jpg — USFWS Mountain-Prairie — Public domain — https://commons.wikimedia.org/wiki/File%3AHovering_Hummingbird_%2814900025010%29.jpg
+- `00-hummingbird.jpg` — File:Hovering Hummingbird (14900025010).jpg — USFWS Mountain-Prairie — CC BY 2.0（共享资源同时标注公有领域）— https://commons.wikimedia.org/wiki/File%3AHovering_Hummingbird_%2814900025010%29.jpg
 - `00-jacquard.jpg` — File:A Jacquard loom showing information punchcards, National Museum of Scotland.jpg — Stephencdickson — CC BY-SA 4.0 — https://commons.wikimedia.org/wiki/File%3AA_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg
 - `00-turk.jpg` — File:Racknitz - The Turk 1.jpg — Joseph Racknitz — Public domain — https://commons.wikimedia.org/wiki/File%3ARacknitz_-_The_Turk_1.jpg
 - `00-betavhs.jpg` — File:Betavhs2.jpg — Senor k — Public domain — https://commons.wikimedia.org/wiki/File%3ABetavhs2.jpg
